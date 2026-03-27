@@ -48,7 +48,9 @@ This project is built to showcase game mechanics, enemy AI, boss fights, and par
 - **Boss HP & Patterns:** Bosses have defined hit points, multiple phases, and unique attack behaviors.  
 
 ---
+### Project Demo
 
+[![Watch the demo](https://img.youtube.com/vi/N7H8UPZk85w/0.jpg)](https://youtu.be/N7H8UPZk85w)
 ## 🛠 Installation
 
 1. Clone the repository:
